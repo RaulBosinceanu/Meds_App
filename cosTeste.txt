@@ -1,0 +1,6 @@
+Profi, 0.87, Lasa, Proxi
+Paracetamol, 18.9, Far, Ibuprofen
+Algocalmin, 6.35, Alb, Ascutit
+Ascovit, 15, Mir, Ascutit
+Decasept, 21.4, Mert, Deci
+Nurofen, 18.9, Phar, Nur
